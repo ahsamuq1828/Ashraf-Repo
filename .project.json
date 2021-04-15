@@ -1,0 +1,28 @@
+{
+  "Credential": "cf",
+  "CF": {
+    "Target": "",
+    "Organization": "",
+    "Space": "",
+    "Deploy": {
+      "WebClient":{
+        "AutoUrl":true,
+        "Version":"",
+        "StaticUrl":""
+      },
+      "Destination": [
+        { "CF": "", "MDK": "ZGY_SAP_ASSET_MANAGER_2010", "URL": "http://sandfiori.mydesk.goodyear.com:443/sap/opu/odata/sap/ZGY_SAP_ASSET_MANAGER_2010"}
+      ]
+    }
+  },
+  "MobileService": {
+    "AdminAPI": "",
+    "AppId": "",
+    "Destination": []
+  },
+  "Onboarding": {
+    "Schema": "sapmobilesvcs",
+    "TimeZone": "UTC",
+    "URL": ""
+  }
+}

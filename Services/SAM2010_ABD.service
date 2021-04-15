@@ -1,0 +1,8 @@
+{
+    "DestinationName": "ZGY_SAP_ASSET_MANAGER_2010",
+    "OfflineEnabled": false,
+    "LanguageURLParam": "sap-language",
+    "OnlineOptions": {},
+    "PathSuffix": "",
+    "SourceType": "Mobile"
+}

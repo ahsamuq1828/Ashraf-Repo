@@ -1,0 +1,10 @@
+{
+	"Service": "/DemoSampleApp/Services/SAM2010_ABD.service",
+	"_Type": "Action.Type.ODataService.Initialize",
+	"ShowActivityIndicator": true,
+	"OnSuccess": "/DemoSampleApp/Actions/Service/InitializeOnlineSuccessMessage.action",
+	"OnFailure": "/DemoSampleApp/Actions/Service/InitializeOnlineFailureMessage.action",
+	"ActionResult": {
+		"_Name": "init"
+	}
+}
